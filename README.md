@@ -2,7 +2,8 @@
 
 ### Task manager is consist of 3 models: User, Task, Comment
 
-
+> **Warning**
+> If something does not work, look at the screenshots
 
 
 ---
@@ -34,6 +35,9 @@ Input
 
 
 ### Login
+> **Note**
+> If login does not work firts time, play second time
+
 Query
 ```
 mutation login($input: LoginInput!){
