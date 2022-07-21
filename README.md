@@ -30,7 +30,7 @@ Input
   }
 }
 ```
-![test](/screenshot/Screenshot%20from%202022-07-22%2000-10-35.png)
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-11-30.png)
 
 
 ### Login
@@ -50,6 +50,7 @@ Input
   }
 }
 ```
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-12-14.png)
 
 ### Create a task
 You should authorize before to create a task
@@ -86,6 +87,9 @@ Input
   }
 }
 ```
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-12-50.png)
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-13-09.png)
+
 
 ### Get tasks
 ```
@@ -97,6 +101,9 @@ query tasks {
   }
 }
 ```
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-10-55.png)
+
+
 
 ### Get a single task with subtasks
 Query
@@ -121,6 +128,7 @@ Input
   }
 }
 ```
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-10-35.png)
 
 
 ### Search task
@@ -146,6 +154,7 @@ Input
   }
 }
 ```
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-30-47.png)
 
 
 
@@ -178,3 +187,6 @@ Input
   }
 }
 ```
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-55-55.png)
+![test](/screenshot/Screenshot%20from%202022-07-22%2000-55-44.png)
+
